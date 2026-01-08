@@ -3,6 +3,8 @@
 
 function obtenerNombre() {
     // Escribe tu código aquí
+    const nombre = "Jesus";
+    return nombre;
 }
 
 // No modificar.

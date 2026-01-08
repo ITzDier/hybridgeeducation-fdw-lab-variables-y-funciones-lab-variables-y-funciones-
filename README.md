@@ -65,3 +65,15 @@ Posteriormente, podrás ejecutar
 ```bash
 npm test
 ```
+
+Una manera factible y facil es que se pueden instalar Node.js de manera local y hacer una prueba rapida con estas 2 variables al final de su codigo
+
+"const resultado"
+"console.log"
+
+Y hacen el siguiente testeo en su terminal
+```bash
+node 'Nombre de su archivo'
+```
+
+Asi veran el resultado que les arroja en su terminal.

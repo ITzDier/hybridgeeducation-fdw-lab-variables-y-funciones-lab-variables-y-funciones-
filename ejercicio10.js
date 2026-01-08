@@ -7,9 +7,14 @@
 
 function invertirCadena(cadena) {
     // Escribe tu código aquí
+    return cadena.split('').reverse().join('');
 }
 
 // Exporta la función para que pueda ser utilizada en las pruebas
 module.exports = {
     invertirCadena
 };
+
+// Prueba rápida de la función
+const resultado = invertirCadena("Hola Mundo");
+console.log("Resultado de la prueba:", resultado);
